@@ -15,7 +15,7 @@ tax_inc_price($products["鉛筆"],"鉛筆");
 tax_inc_price($products["消しゴム"],"消しゴム");
 tax_inc_price($products["物差し"],"物差し");
 echo '<br>';
-    }
+}
 
 ?>
 
