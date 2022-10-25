@@ -10,7 +10,7 @@ echo '<br>';}
 
 //foreach
 foreach($products as $key => $value) {
-tax_inc_price($products[$key],$key);
+tax_inc_price($value,$key);
 }
 
 ?>
